@@ -1,6 +1,6 @@
 # Programming 1
 
-*Edition: Lo-speed, Fall 2016*
+*Edition: Avondcursus, Fall 2016*
 
 Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, PHP, and JavaScript plus SQL, CSS, and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience.
 
@@ -17,8 +17,11 @@ Martijn Stegeman
 *instructor*  
 mail: <m.stegeman@uva.nl>
 
-Jaap van Bergeijk  
-*head TA*  
+Ben Witzen  
+*head TA*
+
+Tinka Zorge  
+*TA*
 
 Have a question? Send us a message by using the "Ask" menu, above. You can use it from home, or during office hours.
 
@@ -124,13 +127,13 @@ Five problem sets are assigned during the course. Each is due by a pre-set deadl
 
 A schedule of problem sets, subject to change, appears below.
 
-| problem set   | language | due     |  
-| ------------- | -------- | ------- |  
-| Problem Set 0 | Scratch  | 9-Sept  |  
-| Problem Set 1 | C        | 16-Sept |  
-| Problem Set 2 | C        | 23-Sept |  
-| Problem Set 3 | C        | 7-Oct   |  
-| Problem Set 4 | C        | 21-Oct  |  
+| problem set   | language |  
+| ------------- | -------- |  
+| Problem Set 0 | Scratch  |  
+| Problem Set 1 | C        |  
+| Problem Set 2 | C        |  
+| Problem Set 3 | C        |  
+| Problem Set 4 | C        |  
 
 In order to accommodate students with different backgrounds, some problem sets are released in two editions: a standard edition intended for most students and a "Hacker Edition" intended for some students. Both editions essentially cover the same material. But the Hacker Edition typically presents that material from a more technical angle and poses more sophisticated questions. Hacker Editions are graded separately from standard editions, but those students who submit the former do not receive any form of extra credit outright. When determining grades at term's end, however, we do bear in mind submissions of Hacker Editions.
 
