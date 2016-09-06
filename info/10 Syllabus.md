@@ -112,7 +112,7 @@ Embedded into problem sets are "walkthroughs," videos via which the course's sta
 ## Office Hours
 
 Office hours are opportunities for assistance with problem sets alongside the
-course's teaching assistants. Office hours ordinarily take place from 3PM to 7PM on Tuesdays through Thursdays.
+course's teaching assistants. Office hours ordinarily take place from 3PM to 7PM on Tuesdays.
 
 ## Tutoring
 
