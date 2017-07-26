@@ -1,12 +1,6 @@
-# Programming 1
-
-*Edition: Avondcursus, Fall 2016*
+# Avondcursus Programmeren 1 <small>Syllabus --- Fall 2017</small>
 
 Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, PHP, and JavaScript plus SQL, CSS, and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience.
-
-This course is the first part of a two-course series aimed at students with
-*little or no prior programming experience* but a desire to understand
-computational approaches to problem solving.
 
 ## Staff
 
@@ -16,12 +10,6 @@ You are encouraged to speak to an assistant or the instructor at the lab. Do you
 Martijn Stegeman  
 *instructor*  
 mail: <m.stegeman@uva.nl>
-
-Ben Witzen  
-*head TA*
-
-Tinka Zorge  
-*TA*
 
 Have a question? Send us a message by using the "Ask" menu, above. You can use it from home, or during office hours.
 
